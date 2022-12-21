@@ -1,0 +1,9 @@
+module Base
+{
+    model BookBlack
+        {
+            mesh = WorldItems/Book,
+            texture = WorldItems/BookBlack,
+            scale = 0.4,
+        }
+}

@@ -1,0 +1,3 @@
+ItemName_FR = {
+    ItemName_Base.MaintenanceOfCombatEquipment1 = "Entretien de l'équipement de combat Vol. 1",
+}

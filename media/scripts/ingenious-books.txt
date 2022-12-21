@@ -1,0 +1,22 @@
+module Ingenious
+{
+    imports
+    {
+        Base
+    }
+    item MaintenanceOfCombatEquipment1
+        {
+            DisplayCategory     =   SkillBook,
+            NumberOfPages	    =	220,
+            Weight	            =	0.8,
+            Type	            =	Literature,
+            DisplayName         =   Maintain Combat Gear Vol. 1,
+            Icon	            =	Book4,
+            SkillTrained        =   Trapping,
+            LvlSkillTrained     =   1,
+            NumLevelsTrained    =   2,
+            StaticModel         =   Book,
+            WorldStaticModel    =   BookBack,
+        }
+}
+
